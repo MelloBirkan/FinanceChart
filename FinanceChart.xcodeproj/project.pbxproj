@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1B7011C12ADA3A1C00ED7C94 /* FinChart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinChart.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1B7011C12ADA3A1C00ED7C94 /* FinanceChart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinanceChart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B7011C42ADA3A1C00ED7C94 /* FinChartApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinChartApp.swift; sourceTree = "<group>"; };
 		1B7011C62ADA3A1C00ED7C94 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1B7011C82ADA3A1F00ED7C94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -45,7 +45,7 @@
 		1B7011C22ADA3A1C00ED7C94 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1B7011C12ADA3A1C00ED7C94 /* FinChart.app */,
+				1B7011C12ADA3A1C00ED7C94 /* FinanceChart.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1B7011C02ADA3A1C00ED7C94 /* FinChart */ = {
+		1B7011C02ADA3A1C00ED7C94 /* FinanceChart */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1B7011CF2ADA3A1F00ED7C94 /* Build configuration list for PBXNativeTarget "FinChart" */;
+			buildConfigurationList = 1B7011CF2ADA3A1F00ED7C94 /* Build configuration list for PBXNativeTarget "FinanceChart" */;
 			buildPhases = (
 				1B7011BD2ADA3A1C00ED7C94 /* Sources */,
 				1B7011BE2ADA3A1C00ED7C94 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = FinChart;
+			name = FinanceChart;
 			productName = FinChart;
-			productReference = 1B7011C12ADA3A1C00ED7C94 /* FinChart.app */;
+			productReference = 1B7011C12ADA3A1C00ED7C94 /* FinanceChart.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1B7011BC2ADA3A1C00ED7C94 /* Build configuration list for PBXProject "FinChart" */;
+			buildConfigurationList = 1B7011BC2ADA3A1C00ED7C94 /* Build configuration list for PBXProject "FinanceChart" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1B7011C02ADA3A1C00ED7C94 /* FinChart */,
+				1B7011C02ADA3A1C00ED7C94 /* FinanceChart */,
 			);
 		};
 /* End PBXProject section */
@@ -329,7 +329,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1B7011BC2ADA3A1C00ED7C94 /* Build configuration list for PBXProject "FinChart" */ = {
+		1B7011BC2ADA3A1C00ED7C94 /* Build configuration list for PBXProject "FinanceChart" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1B7011CD2ADA3A1F00ED7C94 /* Debug */,
@@ -338,7 +338,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1B7011CF2ADA3A1F00ED7C94 /* Build configuration list for PBXNativeTarget "FinChart" */ = {
+		1B7011CF2ADA3A1F00ED7C94 /* Build configuration list for PBXNativeTarget "FinanceChart" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1B7011D02ADA3A1F00ED7C94 /* Debug */,
